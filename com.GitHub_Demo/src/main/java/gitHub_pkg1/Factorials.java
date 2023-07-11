@@ -12,5 +12,10 @@ public static void main(String[] args) {
 		System.out.println(fact);
 	}
 	System.out.println(fact);
+<<<<<<< HEAD
+=======
+	
+	
+>>>>>>> Local_Branch
 }
 }
