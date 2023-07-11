@@ -4,7 +4,11 @@ public class Factorials
 {
 public static void main(String[] args) {
 
+<<<<<<< Updated upstream
 	int num=26;
+=======
+	int num=5;
+>>>>>>> Stashed changes
 
 	int fact=1;
 	for(int i=1;i<=num;i++) {
