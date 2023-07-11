@@ -8,7 +8,6 @@ public class Hello_Pro
 		System.out.println("Hello India");
 		System.out.println("Hello");
 
-		
 
 	}
 }
