@@ -7,15 +7,16 @@ public class Even_Odd
 
 		{
 
-		if(a%2==0) {
+			if(a%2==0) {
 
-			System.out.println("Even Number");
-		}
-		else
-		{
-			System.out.println("Not even numbers");
-		}
-		System.out.println("Successfully Completed");
+				System.out.println("Even Number");
+			}
+			else
+			{
+				System.out.println("Not even numbers");
+			}
+			System.out.println("Successfully Completed");
 
+		}
 	}
 }
