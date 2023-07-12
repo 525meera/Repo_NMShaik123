@@ -20,6 +20,7 @@ public class Greaterthanpro
 		{
 			System.out.println("False");
 		}
+
 		sc.close();
 	}	
 
