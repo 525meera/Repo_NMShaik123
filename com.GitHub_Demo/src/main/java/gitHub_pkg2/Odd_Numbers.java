@@ -9,6 +9,8 @@ public class Odd_Numbers {
 		else
 		{
 			System.out.println("Not even numbers");
+			
 		}
+		System.out.println("Sccessful ");
 	}
 }
