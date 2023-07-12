@@ -10,6 +10,7 @@ public class Using_ForEachloop
 			System.out.println("The String values are : "+str1);
 			
 		}
+		System.out.println("Using ForEach Loop");
 
 	}
 
