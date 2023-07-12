@@ -6,16 +6,14 @@ public class Even_Odd
 		int a=12;
 
 		{
+			if(a%2==0) {
 
-		if(a%2==0) {
-
-			System.out.println("Even Number");
+				System.out.println("Even Number");
+			}
+			else
+			{
+				System.out.println("Not even numbers");
+			}
 		}
-		else
-		{
-			System.out.println("Not even numbers");
-		}
-		System.out.println("Successfully Completed");
-
 	}
 }
