@@ -44,6 +44,7 @@ public class Static_variables
 		st.add(); //static methods to calling to object reference variable
 
 		st.sub();
+		st.mul();
 
 		
 
