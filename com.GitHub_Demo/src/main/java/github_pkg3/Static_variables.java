@@ -41,7 +41,12 @@ public class Static_variables
 		Static_variables st=new Static_variables();
 		st.a=30;
 		st.b=40;
-		
+
+		st.add(); //static methods to calling to object reference variable
+		st.sub();
+		st.mul();
+
+
 		
 
 		st.add1();//without static method
