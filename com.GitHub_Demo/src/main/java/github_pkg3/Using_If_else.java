@@ -13,7 +13,8 @@ public class Using_If_else
 		{
 			System.out.println("x+y is less than 40");
 		}
-		System.out.println("Successful");
+		
+		
 		
 		
 			
