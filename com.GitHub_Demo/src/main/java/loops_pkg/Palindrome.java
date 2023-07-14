@@ -21,7 +21,8 @@ public class Palindrome
 			System.out.print("The given numbers = "+ n + "  is not palindrome number");
 		}
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		Palindrome p=new Palindrome();
 		p.polindrome();
 	}
