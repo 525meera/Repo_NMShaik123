@@ -11,11 +11,22 @@ public class String_word_count
 		//System.out.println(ch);
 		for(int i=0;i<length;i++)
 		{
-			if(ch[i]!=' ')
+			if(ch[i]==' ')
 			{
-				System.out.print(ch[i]);
+				if(!(i==0||i==ch.length-1))
+				{
+					count++;
+				}
+				if(i!=(ch.length-1))
+				{
+					if(ch[i+1]==' ')
+					{
+						count--;
+					}
+				}
 			}
 		}
+		System.out.println(count);
 		
 	}
 }
