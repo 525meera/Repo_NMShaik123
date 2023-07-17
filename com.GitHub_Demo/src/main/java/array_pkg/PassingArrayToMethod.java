@@ -1,6 +1,6 @@
 package array_pkg;
 
-public class Passingtoarraymethod
+public class PassingArrayToMethod
 {
 	static void min(int arr[])
 	 {  
