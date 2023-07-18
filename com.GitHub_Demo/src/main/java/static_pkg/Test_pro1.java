@@ -27,7 +27,7 @@ public class Test_pro1
 	}
 	public static void main(String[] args) 
 	{
-		m();
-		m2(2, "Saleem", 1234567, "Hyderaguda", "Hyd");
+		Test_pro1.m();
+		Test_pro1.m2(2, "Saleem", 1234567, "Hyderaguda", "Hyd");
 	}
 }

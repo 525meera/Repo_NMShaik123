@@ -26,7 +26,8 @@ public class Test_pro
 	}
 	public static void main(String[] args)
 	{
-		m();
+		Test_pro.m();
+		
 		Test_pro t=new Test_pro();
 		t.m1();
 		
