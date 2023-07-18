@@ -29,5 +29,6 @@ public class Test_pro
 		m();
 		Test_pro t=new Test_pro();
 		t.m1();
+		
 	}
 }
