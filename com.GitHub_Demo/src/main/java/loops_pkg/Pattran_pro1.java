@@ -6,7 +6,7 @@ public class Pattran_pro1
 		int row=5;
 		for(int i=row;i>=1;i--) {
 			for(int j=i;j<row;j++) {
-				System.out.print("");
+				System.out.print(" ");
 			}
 			for(int k=1;k<=i;k++) {
 				System.out.print("*");
