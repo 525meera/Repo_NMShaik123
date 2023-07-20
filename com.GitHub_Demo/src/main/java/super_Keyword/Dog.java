@@ -1,6 +1,6 @@
 package super_Keyword;
 
-public class Dog
+public class Dog extends Animal
 {
 	Dog()
 	{  
