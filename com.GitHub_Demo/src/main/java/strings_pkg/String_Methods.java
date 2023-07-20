@@ -32,7 +32,7 @@ public class String_Methods
     	 String upperCase =str.toUpperCase();
     	 System.out.println("UpperCase words : "+upperCase); 
     	 
-    	 String str1="MINDQ";
+    	 String str1="ZTOH";
     	 System.out.println("UpperCase words : "+str1.toLowerCase());
     	 
     	 
