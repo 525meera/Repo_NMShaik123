@@ -8,7 +8,7 @@ public class Current_Class_Method
 	}
 	void display()
 	{
-		this.method();
+		this.method();//Called to current class method by using the this keyword
 		System.out.println("METHOD");
 	}
 	public static void main(String[] args) 
