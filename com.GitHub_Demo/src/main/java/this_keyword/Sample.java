@@ -46,8 +46,8 @@ public class Sample
 	}
 	void m2()
 	{
-		m1();//Non Static variables
-		m3();//Static variables
+		m1();//Non Static Method
+		m3();//Static method
 	}
 	static void m3()
 	{
