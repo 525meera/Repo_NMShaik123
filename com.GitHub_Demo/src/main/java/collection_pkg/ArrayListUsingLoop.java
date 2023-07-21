@@ -19,7 +19,7 @@ public class ArrayListUsingLoop {
 		//        for(int i=0;i<al.size();i++) {
 		//        	System.out.println(i);
 		//        }
-		for (Integer num : al) {         
+		for (int num : al) {         
 			System.out.println(num);   
 		}
 	}
