@@ -6,10 +6,11 @@ public class Example
 	int b=20;
 	int c;
 	String str="HYD";
-	void m1(int a,int b)
+	void m1(int a,int b,String str)
 	{
 		a=this.a;
 		b=this.b;
+		str=this.str;
 		c=a+b;
 		System.out.println("Addition of a+b = "+c);// To display to global variables values
 	}
@@ -31,7 +32,7 @@ public class Example
 	public static void main(String[] args) 
 	{
 		Example ee=new Example();
-		ee.m1(12,11);
+		ee.m1(12,11,"Meera");
 		ee.m3(12,12);
 	}
 
